@@ -1,5 +1,5 @@
-# 💫 About Me:
-Python Full Stack Developer
+# 💫 About Me: Python Full Stack Developer
+
 
 
 # 💻 Tech Stack:
